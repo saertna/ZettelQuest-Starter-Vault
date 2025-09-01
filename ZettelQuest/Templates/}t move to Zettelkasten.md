@@ -1,0 +1,1 @@
+<% tp.file.move("Zettelkasten/" + tp.file.title) %>

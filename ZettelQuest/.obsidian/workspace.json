@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "dfb7a5231d603c16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6903f285ff0d9341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fdba61baf007b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Startpage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Startpage"
+            }
+          },
+          {
+            "id": "8e354783e13d6965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Onboarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 Onboarding"
+            }
+          },
+          {
+            "id": "c2ff28c1d1268ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Startpage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Startpage"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cbbb08136465db2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2676ad03f2ec022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41aef058c8595b9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b9d822f8f92ce311",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9928ebfdf5b1e9a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8aa68a9cafefc1a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c291782e4f62775d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc51f944b260fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2469785af065e5d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "59e367ea1f22b2cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8bd7e5e4405b4a33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c2ff28c1d1268ca9",
+  "lastOpenFiles": [
+    "0 Onboarding.md",
+    "3 Fleeting note.md",
+    "Zettelkasten/10.1 Zettelkasten.md",
+    "Templates/}t inbox.md",
+    "1 Startpage.md",
+    "Untitled.base",
+    "2 Index.md",
+    "Inbox/test.md",
+    "Zettelkasten/1.1 A  Zettelkasten will help you extending your thinking.md",
+    "Templates/}t move to Zettelkasten.md",
+    "Inbox",
+    "Attachments/Startpage.excalidraw.md",
+    "Excalidraw",
+    "Templates",
+    "Projects",
+    "Zettelkasten",
+    "Bibliography",
+    "Attachments"
+  ]
+}
