@@ -5,3 +5,5 @@ Only when you are able to explain something, you know you have understood it. Wh
 
 next: [[to build your understanding you build on a thought before and link it]]
 previous note: [[seeing your explicit knowledge can spawn new and further ideas]] 
+source: [[@Ahrens-How-to-write-smart-notes#^5e9b9b]]
+
