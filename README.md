@@ -25,7 +25,7 @@ ZettelQuest: The Journey to Infinite Insights. It’s a beginner‑friendly Zett
 1. Clone or download this repository.
 	1. the green button labed `<> code`
 2. When dowloaded extract the zip file on your hard disk 
-3. Open Obsidian, choose "Open folder as vault", and select the downloaded and extracted vault folder.
+3. Open Obsidian, choose "Open folder as vault", and select *inside* of the downloaded and extracted zip the folder `ZettelQuest`.
 4. Open the Starter Guide note `0 Onboarding` and follow the short introduction.
 
 
