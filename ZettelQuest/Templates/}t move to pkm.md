@@ -1,0 +1,1 @@
+<% tp.file.move("pkm/" + tp.file.title) %>

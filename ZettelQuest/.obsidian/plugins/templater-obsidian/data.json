@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "Templates/}t move to Zettelkasten.md",
+    "Templates/}t move to pkm.md"
   ],
   "startup_templates": [
     ""

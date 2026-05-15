@@ -1,4 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }

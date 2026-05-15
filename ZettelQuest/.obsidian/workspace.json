@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fdba61baf007b30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Startpage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 Startpage"
-            }
-          },
-          {
             "id": "8e354783e13d6965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Onboarding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 Onboarding"
-            }
-          },
-          {
-            "id": "c2ff28c1d1268ca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "1 Startpage"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
+                "file": "1 Startpage.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 1 Startpage"
             }
           },
           {
@@ -171,53 +142,65 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "1 Startpage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 1 Startpage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2ff28c1d1268ca9",
+  "active": "8e354783e13d6965",
   "lastOpenFiles": [
     "0 Onboarding.md",
-    "3 Fleeting note.md",
-    "Zettelkasten/10.1 Zettelkasten.md",
-    "Templates/}t inbox.md",
     "1 Startpage.md",
+    "pkm/Markdown Formatting.md",
+    "pkm/Markdown.md",
+    "Zettelkasten/explicit knowledge is knowledge you have formulated in words, so one other can read and understand it.md",
+    "Zettelkasten/by writing your thought down, you transform your implicit knowledge to explicit knowledge.md",
+    "Zettelkasten/implicit knowledge is knowledge you have, but you are not fully aware of it.md",
+    "Zettelkasten/A  Zettelkasten will help you extending your thinking.md",
+    "Zettelkasten/a train of thought is a sequence on thoughts in a topic.md",
+    "Zettelkasten/to build your understanding you build on a thought before and link it.md",
+    "Zettelkasten/Only linked notes get added to the Zettelkasten to guaranty finding a thought again and build thoughts on each other.md",
+    "Zettelkasten/only when you are able to explain it, you have understood it, this plays here an important role.md",
+    "Zettelkasten/seeing your explicit knowledge can spawn new and further ideas.md",
+    "Zettelkasten/10.1 Zettelkasten.md",
+    "Projects",
+    "3 Index - pkm.md",
+    "2 Index - Zettelkasten.md",
+    "4 Inbox - Fleeting note.md",
+    "Templates/}t move to pkm.md",
+    "Excalidraw/Drawing 2026-05-15 08.17.56.excalidraw.md",
+    "Excalidraw",
+    "Inbox",
+    "pkm",
+    "Bibliography",
+    "Templates/}t inbox.md",
     "Untitled.base",
-    "2 Index.md",
     "Inbox/test.md",
-    "Zettelkasten/1.1 A  Zettelkasten will help you extending your thinking.md",
     "Templates/}t move to Zettelkasten.md",
     "Inbox",
     "Attachments/Startpage.excalidraw.md",
-    "Excalidraw",
     "Templates",
     "Projects",
-    "Zettelkasten",
-    "Bibliography",
-    "Attachments"
+    "Zettelkasten"
   ]
 }

@@ -3,7 +3,7 @@
 
 
 ## my topics 
-- [[1.1 A  Zettelkasten will help you extending your thinking]]
+- [[A  Zettelkasten will help you extending your thinking]]
 
 
 
@@ -28,6 +28,8 @@
 | \#MOC\\Level4      | Level 4 ⇒ include a visual orientation above level 3     |
 | \#question         | ⇒ open question to follow up                             |
 | \#question/someday | ⇒ Inactive question for some other time                  |
-| \#index            | ⇒ list note in the index view                            |
+| \#index            | ⇒ list note in the index view [[2 Index - Zettelkasten]] |
+| \#pkm              | ⇒ reference material                                     |
+| \#pkm/index        | ⇒ adds the note to [[3 Index - pkm]]                     |
 
 
